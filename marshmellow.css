@@ -1,0 +1,363 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.image {
+    float: left;
+    margin-left: -100px;
+    width: 150px;
+    color: #fff;
+    margin-top: -100px;
+}
+
+.ul1 {
+    float: right;
+    margin-right: 200px;
+    color: #fff;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.ul1 li {
+    display: inline-block;
+    margin: 10px;
+}
+
+.nomer {
+    background-color: rgb(0, 214, 99);
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+    margin-right: 20px;
+    width: 140px;
+    height: 40px;
+    float: right;
+    margin-right: -600px;
+    margin-top: 20px;
+}
+
+.nomer:hover {
+    background-color: rgb(0, 163, 75);
+    transition: 0.3s;
+}
+
+.banner {
+    font-size: 34px;
+    padding-top: 130px;
+}
+
+.p {
+    color: #fff;
+    margin-top: 20px;
+}
+
+.button {
+    color: #fff;
+    font-weight: bold;
+    background-color: rgb(25, 152, 255);
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    height: 40px;
+    margin-top: 30px;
+}
+
+.button:hover {
+    background-color: rgb(0, 126, 229);
+    transition: 0.3s;
+}
+
+.logo {
+    float: right;
+    margin-right: 50px;
+    width: 300px;
+    margin-top: -90px;
+}
+
+.logo2 {
+    float: right;
+    margin-right: 300px;
+    margin-top: -325px;
+}
+
+.Service {
+    margin: 100px;
+}
+
+.logo3 {
+    float: right;
+    margin-right: -100px;
+    margin-top: -334px;
+}
+
+.View {
+    float: right;
+    margin-top: -30px;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 2px rgb(78, 73, 242);
+    color: rgb(78, 73, 242);
+    font-weight: bold;
+    background-color: #fff;
+}
+
+.View:hover {
+    background-color: rgb(60, 55, 241);
+    color: #fff;
+    transition: 0.6s;
+}
+
+.img_slide {
+    margin-top: 50px;
+    margin: 70px;
+}
+
+.slider1 {
+    height: 300px;
+}
+
+.slider3 {
+    height: 300px;
+}
+
+.slider4 {
+    height: 300px;
+}
+
+.slider2 {
+    height: 300px;
+}
+
+.satsfied {
+    float: left;
+}
+
+.finished1 {
+    float: left;
+    margin-left: 200px;
+}
+
+.team {
+    float: left;
+    margin-left: 200px;
+}
+
+.our-block {
+    float: left;
+    margin-left: 200px;
+}
+
+.foiz {
+    font-weight: bold;
+    font-size: 28px;
+    float: right;
+    margin-right: 0px;
+}
+
+.clients {
+    float: right;
+    margin-right: -110px;
+    margin-top: 36px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.nomber2 {
+    font-weight: bold;
+    font-size: 28px;
+    float: right;
+    margin-right: 0px;
+}
+
+.Project {
+    float: right;
+    margin-right: -110px;
+    margin-top: 36px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.nomer3 {
+    font-weight: bold;
+    font-size: 28px;
+    float: right;
+    margin-right: 0px;
+}
+
+.Members {
+    float: right;
+    margin-right: -110px;
+    margin-top: 36px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.nomer4 {
+    font-weight: bold;
+    font-size: 28px;
+    float: right;
+    margin-right: 0px;
+}
+
+.Posts {
+    float: right;
+    margin-right: -110px;
+    margin-top: 36px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.fiolit {
+    background-color: rgb(165, 41, 249);
+    margin-top: 300px;
+    width: 100%;
+    height: 340px;
+    color: #fff;
+}
+
+.fiolit h3 {
+    font-weight: bold;
+    padding-top: 80px;
+    float: left;
+    margin-left: 160px;
+}
+
+.fiolit h1 {
+    padding-top: 130px;
+    font-size: 34px;
+    float: left;
+    margin-left: -100px;
+}
+
+
+.Mark-Spenser img {
+    border-radius: 180px;
+    width: 60px;
+    float: right;
+    margin-right: 560px;
+    margin-top: -220px;
+}
+
+.Mark-Spenser p {
+    float: right;
+    margin-right: 250px;
+    margin-top: -220px;
+    color: #fff;
+}
+
+.Mark-Spenser h2 {
+    float: right;
+    margin-right: 400px;
+    margin-top: -150px;
+    color: #fff;
+}
+
+.Mark-Spenser h3 {
+    color: #858585;
+    float: right;
+    margin-right: 470px;
+    margin-top: -100px;
+}
+
+
+.toggle-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 16px;
+    margin-top: -30px;
+    float: right;
+    margin-right: 200px;
+}
+
+
+.toggle-switch {
+    position: relative;
+    width: 50px;
+    height: 24px;
+}
+
+.toggle-switch input {
+    display: none;
+}
+
+.slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    border-radius: 24px;
+    transition: 0.4s;
+}
+
+.slider:before {
+    content: "";
+    position: absolute;
+    height: 18px;
+    width: 18px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    border-radius: 50%;
+    transition: 0.4s;
+}
+
+.toggle-label {
+    color: #7F84A1;
+}
+
+.plans h1 {
+    margin-top: 100px;
+    font-size: 30px;
+    float: right;
+    margin-right: 900px;
+}
+
+.plans p {
+    margin-top: 30px;
+    float: left;
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+.busines-box-shadow {
+    box-shadow: 1px 10px 10px #ccc;
+    width: 370px;
+    height: 500px;
+    border-radius: 4px;
+    border: solid 1px #b8b8b8;
+    background-color: #ffffff;
+    margin-top: 40px;
+    transition: all 1s;
+    background-color: #fff;
+    margin-top: 200px;
+    float: left;
+    margin-left: -700px;
+}
+.busines-box-shadow:hover {
+    box-shadow: 1px 10px 10px #ccc;
+    background-color: #1998FF;
+    transition: 1s;
+    color: #fff;
+}
+
+.busines-box-shadow button {
+    width: 130px;
+    height: 50px;
+    border-radius: 50px;
+    border: 2px solid #1998FF;
+    color: #1998FF;
+    font-weight: bold;
+    margin-top: 50px;
+    float: right;
+    margin-right: 60px;
+}
